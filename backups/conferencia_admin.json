@@ -65,11 +65,11 @@
  emb: PT   20,
  qtd: 1,
  ean: 7896647103753,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 11:17:28,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 849502,

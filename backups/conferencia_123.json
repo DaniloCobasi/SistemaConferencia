@@ -113,11 +113,11 @@
  emb: PT3,
  qtd: 1,
  ean: 7898276904541,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 15:40:36,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 671746,

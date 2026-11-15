@@ -53,11 +53,11 @@
     "emb": "UN1",
     "qtd": "2",
     "ean": "7896544403710",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "15/11/2026 16:53:02",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "730033",

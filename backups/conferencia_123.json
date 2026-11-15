@@ -77,11 +77,11 @@
     "emb": "PT20",
     "qtd": "1",
     "ean": "7896647104644",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "15/11/2026 16:55:10",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "824062",

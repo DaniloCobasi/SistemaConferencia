@@ -5,11 +5,11 @@
     "emb": "FD   10",
     "qtd": "1",
     "ean": "7898074740136",
-    "status": "CONFERIDO",
+    "status": "NÃO CONFERIDO",
     "qtdDiv": "",
-    "dataHora": "15/11/2026 17:36:39",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "123 | Danilo"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "370983",
@@ -17,11 +17,11 @@
     "emb": "UN    1",
     "qtd": "5",
     "ean": "7898231360016",
-    "status": "CONFERIDO",
+    "status": "NÃO CONFERIDO",
     "qtdDiv": "",
-    "dataHora": "15/11/2026 17:42:29",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "123 | Danilo"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "720305",

@@ -29,11 +29,11 @@
     "emb": "PT    1",
     "qtd": "5",
     "ean": "7898231361099",
-    "status": "NÃO CONFERIDO",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "status": "DIVERGENTE",
+    "qtdDiv": "-2",
+    "dataHora": "15/11/2026 18:26:15",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "123 | Danilo"
   },
   {
     "cod": "182486",
@@ -121,7 +121,7 @@
   },
   {
     "cod": "671746",
-    "desc": "PAPAGAIO EXTRUSADO 3,5KG",
+    "desc": "PAPAGAIO EXTRUSADO 3",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898329490120",
@@ -301,7 +301,7 @@
   },
   {
     "cod": "630659",
-    "desc": "ND PRIME CAN CORD ADT MEDIUM 2,5KG",
+    "desc": "ND PRIME CAN CORD ADT MEDIUM 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898604432982",
@@ -313,7 +313,7 @@
   },
   {
     "cod": "630772",
-    "desc": "ND PRIME CAN CORD ADT MINI 2,5KG",
+    "desc": "ND PRIME CAN CORD ADT MINI 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898604433019",
@@ -325,7 +325,7 @@
   },
   {
     "cod": "631108",
-    "desc": "ND PRIME CAN CORD PUPPY MINI 2,5KG",
+    "desc": "ND PRIME CAN CORD PUPPY MINI 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898604433040",
@@ -385,7 +385,7 @@
   },
   {
     "cod": "1132270",
-    "desc": "ND TROP SELEC CAN ADT MINI SUINO 2,5 KG",
+    "desc": "ND TROP SELEC CAN ADT MINI SUINO 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898604437253",
@@ -469,7 +469,7 @@
   },
   {
     "cod": "909912",
-    "desc": "GN CAO AD MP COR&AVEIA 2,5KG",
+    "desc": "GN CAO AD MP COR&AVEIA 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7896048915498",
@@ -505,7 +505,7 @@
   },
   {
     "cod": "1004182",
-    "desc": "BIOFRESH GATO CASTRADO SALMAO 1,5KG",
+    "desc": "BIOFRESH GATO CASTRADO SALMAO 1",
     "emb": "FD    6",
     "qtd": "1",
     "ean": "7908320403187",
@@ -541,7 +541,7 @@
   },
   {
     "cod": "686034",
-    "desc": "GUIA NYLON 120X2,5 AZUL - DOCO",
+    "desc": "GUIA NYLON 120X2",
     "emb": "FD    3",
     "qtd": "1",
     "ean": "0888886027034",
@@ -793,7 +793,7 @@
   },
   {
     "cod": "798045",
-    "desc": "PREMIER PET A I AD 2,5 KG",
+    "desc": "PREMIER PET A I AD 2",
     "emb": "FD    6",
     "qtd": "2",
     "ean": "7897348201021",
@@ -877,7 +877,7 @@
   },
   {
     "cod": "471852",
-    "desc": "WHI DRY AD MIX CARNES 2,7KG",
+    "desc": "WHI DRY AD MIX CARNES 2",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896029092330",
@@ -1021,7 +1021,7 @@
   },
   {
     "cod": "1170520",
-    "desc": "JOY CAES AD PEQ PORTE 2,5KG",
+    "desc": "JOY CAES AD PEQ PORTE 2",
     "emb": "FD    4",
     "qtd": "2",
     "ean": "7898682045326",

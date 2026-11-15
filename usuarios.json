@@ -6,25 +6,4 @@
     pergunta: nomedoseuprimeiropet?,
     resposta: bob
   },
-  {
-    usuario: teste1,
-    senha: 154,
-    email: teste1@gmail.com,
-    pergunta: nomedoseuprimeiropet?,
-    resposta: bob
-  },
-  {
-    usuario: joao,
-    senha: 136,
-    email: joao@joao.com,
-    pergunta: nomedasuamã£â£ã¢â£e?,
-    resposta: gui
-  },
-  {
-    usuario: teste2,
-    senha: 154,
-    email: teste@teste1.com,
-    pergunta: nomedoseuprimeiropet?,
-    resposta: vc
-  }
 ]

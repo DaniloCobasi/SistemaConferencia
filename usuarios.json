@@ -3,6 +3,13 @@
     usuario: teste,
     senha: 157,
     email: teste@teste.com,
+    pergunta: nomedoseuprimeiropet?,
+    resposta: bob
+  },
+  {
+    usuario: teste1,
+    senha: 154,
+    email: teste1@gmail.com,
     pergunta: Nome do seu primeiro pet?,
     resposta: bob
   }

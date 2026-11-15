@@ -1,20 +1,9 @@
-[
+[{usuario:admin,senha:admin123},{usuario:teste,senha:1234}]{usuario:Alex,senha:1256,email:teste@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:Bobinho},
   {
-    usuario: admin,
-    senha: admin123
-  },
-  {
-    usuario: teste,
-    senha: 1234
-  }
-]
-
-
-  {
-    usuario: Alex,
-    senha: 1256,
-    email: teste@gmail.com,
+    usuario: maria,
+    senha: 1010,
+    email: maria@gmail.com,
     pergunta: Nome do seu primeiro pet?,
-    resposta: Bobinho
+    resposta: dug
   }
 ]

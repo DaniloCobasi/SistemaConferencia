@@ -101,11 +101,11 @@
  emb: FD12,
  qtd: 2,
  ean: 7898113910063,
- status: NÃO CONFERIDO,
- qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ status: DIVERGENTE,
+ qtdDiv: -12,
+ dataHora: 15/11/2026 15:39:53,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 474720,

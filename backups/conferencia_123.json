@@ -17,11 +17,11 @@
     "emb": "UN    1",
     "qtd": "5",
     "ean": "7898231360016",
-    "status": "CONFERIDO",
-    "qtdDiv": "",
-    "dataHora": "15/11/2026 17:40:39",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "123 | Danilo"
+    "status": "DIVERGENTE",
+    "qtdDiv": "-1",
+    "dataHora": "15/11/2026 17:40:58",
+    "statusAnt": "CONFERIDO",
+    "usuario": "123 |"
   },
   {
     "cod": "720305",

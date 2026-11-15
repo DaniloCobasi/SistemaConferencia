@@ -1,9 +1,9 @@
-[{usuario:admin,senha:admin123},{usuario:teste,senha:1234}]{usuario:Alex,senha:1256,email:teste@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:Bobinho},{usuario:maria,senha:1010,email:maria@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:dug},{usuario:maria1,senha:5656,email:maria@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:56},
+[{usuario:admin,senha:admin123},{usuario:teste,senha:1234}]{usuario:Alex,senha:1256,email:teste@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:Bobinho},{usuario:maria,senha:1010,email:maria@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:dug},{usuario:maria1,senha:5656,email:maria@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:56},{usuario:joao,senha:157,email:joao@gmail.com,pergunta:Nomedoseuprimeiropet?,resposta:joaozinho},
   {
-    usuario: joao,
-    senha: 157,
-    email: joao@gmail.com,
+    usuario: antonio,
+    senha: 154,
+    email: maria56@gmail.com,
     pergunta: Nome do seu primeiro pet?,
-    resposta: joaozinho
+    resposta: 56
   }
 ]

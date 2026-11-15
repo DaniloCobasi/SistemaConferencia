@@ -29,11 +29,11 @@
     "emb": "PT    1",
     "qtd": "5",
     "ean": "7898231361099",
-    "status": "NÃO CONFERIDO",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "status": "DIVERGENTE",
+    "qtdDiv": "-1",
+    "dataHora": "15/11/2026 17:57:45",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "123 |"
   },
   {
     "cod": "182486",

@@ -6,4 +6,11 @@
     pergunta: nomedoseuprimeiropet?,
     resposta: bob
   },
+  {
+    usuario: admin,
+    senha: 24313664,
+    email: danilocobasi@outlook.com,
+    pergunta: Seu primeiro carro?,
+    resposta: Laila
+  }
 ]

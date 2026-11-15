@@ -15,16 +15,16 @@
   },
   {
     usuario: joao,
-    senha: 123,
+    senha: 136,
     email: joao@joao.com,
-    pergunta: nomedasuamã£â£e?,
+    pergunta: nomedasuamã£â£ã¢â£e?,
     resposta: gui
   },
   {
     usuario: teste2,
     senha: 154,
     email: teste@teste1.com,
-    pergunta: Nome do seu primeiro pet?,
+    pergunta: nomedoseuprimeiropet?,
     resposta: vc
   }
 ]

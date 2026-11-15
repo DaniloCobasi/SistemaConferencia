@@ -17,11 +17,11 @@
  emb: UN    1,
  qtd: 2,
  ean: 7896260203830,
- status: CONFERIDO,
+ status: NÃO CONFERIDO,
  qtdDiv: ,
- dataHora: 15/11/2026 11:17:21,
- statusAnt: NÃO CONFERIDO,
- usuario: admin | Danilo
+ dataHora: ,
+ statusAnt: ,
+ usuario: 
  },
  {
  cod: 132969,
@@ -65,11 +65,11 @@
  emb: PT   20,
  qtd: 1,
  ean: 7896647103753,
- status: CONFERIDO,
+ status: NÃO CONFERIDO,
  qtdDiv: ,
- dataHora: 15/11/2026 11:17:28,
- statusAnt: NÃO CONFERIDO,
- usuario: admin | Danilo
+ dataHora: ,
+ statusAnt: ,
+ usuario: 
  },
  {
  cod: 849502,
@@ -101,11 +101,11 @@
  emb: PT    3,
  qtd: 1,
  ean: 7898276904527,
- status: CONFERIDO,
+ status: NÃO CONFERIDO,
  qtdDiv: ,
- dataHora: 15/11/2026 11:17:35,
- statusAnt: NÃO CONFERIDO,
- usuario: admin | Danilo
+ dataHora: ,
+ statusAnt: ,
+ usuario: 
  },
  {
  cod: 475394,
@@ -161,11 +161,11 @@
  emb: UN    1,
  qtd: 2,
  ean: 7896782212013,
- status: CONFERIDO,
+ status: NÃO CONFERIDO,
  qtdDiv: ,
- dataHora: 15/11/2026 11:17:56,
- statusAnt: NÃO CONFERIDO,
- usuario: admin | Danilo
+ dataHora: ,
+ statusAnt: ,
+ usuario: 
  },
  {
  cod: 555720,
@@ -173,11 +173,11 @@
  emb: UN    1,
  qtd: 2,
  ean: 7896782204315,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 11:18:50,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 881945,

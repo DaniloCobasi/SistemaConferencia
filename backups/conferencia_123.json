@@ -89,11 +89,11 @@
  emb: UN1,
  qtd: 1,
  ean: 7897432701437,
- status: NÃO CONFERIDO,
- qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ status: DIVERGENTE,
+ qtdDiv: -1,
+ dataHora: 15/11/2026 15:39:31,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 730246,

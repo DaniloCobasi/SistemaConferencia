@@ -29,11 +29,11 @@
  emb: PT    1,
  qtd: 5,
  ean: 7898231361099,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 15:04:59,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 182486,

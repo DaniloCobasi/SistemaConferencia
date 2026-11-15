@@ -12,5 +12,12 @@
     email: teste1@gmail.com,
     pergunta: nomedoseuprimeiropet?,
     resposta: bob
+  },
+  {
+    usuario: joao,
+    senha: 123,
+    email: joao@joao.com,
+    pergunta: Nome da sua mãe?,
+    resposta: gui
   }
 ]

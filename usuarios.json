@@ -17,7 +17,14 @@
     usuario: joao,
     senha: 123,
     email: joao@joao.com,
-    pergunta: nomedasuamã£e?,
+    pergunta: nomedasuamã£â£e?,
     resposta: gui
+  },
+  {
+    usuario: teste2,
+    senha: 154,
+    email: teste@teste1.com,
+    pergunta: Nome do seu primeiro pet?,
+    resposta: vc
   }
 ]

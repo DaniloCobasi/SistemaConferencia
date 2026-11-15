@@ -161,11 +161,11 @@
  emb: UN    1,
  qtd: 2,
  ean: 7896782212013,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 11:17:56,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 555720,

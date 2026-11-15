@@ -17,7 +17,14 @@
     usuario: admin2,
     senha: 157,
     email: admin@admin.com,
-    pergunta: Nome do seu primeiro pet?,
+    pergunta: nomedoseuprimeiropet?,
     resposta: bob
+  },
+  {
+    usuario: 123,
+    senha: 123,
+    email: teste3@gmail.com,
+    pergunta: Seu primeiro carro?,
+    resposta: corsa
   }
 ]

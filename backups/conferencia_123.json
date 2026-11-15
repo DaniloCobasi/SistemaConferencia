@@ -5,11 +5,11 @@
     "emb": "FD   10",
     "qtd": "1",
     "ean": "7898074740136",
-    "status": "DIVERGENTE",
+    "status": "NÃO CONFERIDO",
     "qtdDiv": "-1",
-    "dataHora": "15/11/2026 17:57:13",
-    "statusAnt": "CONFERIDO",
-    "usuario": "123 |"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "370983",
@@ -17,11 +17,11 @@
     "emb": "UN    1",
     "qtd": "5",
     "ean": "7898231360016",
-    "status": "DIVERGENTE",
+    "status": "NÃO CONFERIDO",
     "qtdDiv": "-1",
-    "dataHora": "15/11/2026 17:57:32",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "123 |"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "720305",
@@ -29,11 +29,11 @@
     "emb": "PT    1",
     "qtd": "5",
     "ean": "7898231361099",
-    "status": "DIVERGENTE",
+    "status": "NÃO CONFERIDO",
     "qtdDiv": "-1",
-    "dataHora": "15/11/2026 17:57:45",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "123 |"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "182486",

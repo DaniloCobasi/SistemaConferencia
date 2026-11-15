@@ -1,7 +1,7 @@
 [
   {
     usuario: teste,
-    senha: 157,
+    senha: 125,
     email: teste@teste.com,
     pergunta: nomedoseuprimeiropet?,
     resposta: bob
@@ -17,7 +17,7 @@
     usuario: joao,
     senha: 123,
     email: joao@joao.com,
-    pergunta: Nome da sua mãe?,
+    pergunta: nomedasuamã£e?,
     resposta: gui
   }
 ]

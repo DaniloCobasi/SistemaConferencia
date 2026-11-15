@@ -101,11 +101,11 @@
  emb: PT    3,
  qtd: 1,
  ean: 7898276904527,
- status: NÃO CONFERIDO,
+ status: CONFERIDO,
  qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ dataHora: 15/11/2026 11:17:35,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 475394,

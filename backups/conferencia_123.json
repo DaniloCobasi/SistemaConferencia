@@ -77,11 +77,11 @@
  emb: PT20,
  qtd: 1,
  ean: 7896647104644,
- status: NÃO CONFERIDO,
- qtdDiv: ,
- dataHora: ,
- statusAnt: ,
- usuario: 
+ status: DIVERGENTE,
+ qtdDiv: -10,
+ dataHora: 15/11/2026 15:39:19,
+ statusAnt: NÃO CONFERIDO,
+ usuario: admin | Danilo
  },
  {
  cod: 824062,

@@ -6,7 +6,7 @@
     "qtd": "1",
     "ean": "7898074740136",
     "status": "NÃO CONFERIDO",
-    "qtdDiv": "-1",
+    "qtdDiv": "",
     "dataHora": "",
     "statusAnt": "",
     "usuario": ""
@@ -18,7 +18,7 @@
     "qtd": "5",
     "ean": "7898231360016",
     "status": "NÃO CONFERIDO",
-    "qtdDiv": "-1",
+    "qtdDiv": "",
     "dataHora": "",
     "statusAnt": "",
     "usuario": ""
@@ -30,7 +30,7 @@
     "qtd": "5",
     "ean": "7898231361099",
     "status": "NÃO CONFERIDO",
-    "qtdDiv": "-1",
+    "qtdDiv": "",
     "dataHora": "",
     "statusAnt": "",
     "usuario": ""

@@ -5,12 +5,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7791432014132",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "567724/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "16/11/2026 11:20:55",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "555550",

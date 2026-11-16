@@ -31,12 +31,12 @@
     "emb": "PT    1",
     "qtd": "5",
     "ean": "7898231361099",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "270096/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-2",
+    "dataHora": "15/11/2026 23:10:59",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "182486",

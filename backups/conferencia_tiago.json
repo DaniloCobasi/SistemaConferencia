@@ -408,11 +408,11 @@
     "emb": "CX   12",
     "qtd": "1",
     "ean": "7898948410578",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571407/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 13:55:35",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   }
 ]

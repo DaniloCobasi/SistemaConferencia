@@ -564,12 +564,12 @@
     "emb": "UN    1",
     "qtd": "9",
     "ean": "7896782200942",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571941/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 15:18:17",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "771910",

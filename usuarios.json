@@ -3,7 +3,14 @@
     "usuario": "admin",
     "senha": "157",
     "email": "teste@teste.com",
-    "pergunta": "Nome do seu primeiro pet?",
-    "resposta": "Bob"
+    "pergunta": "nomedoseuprimeiropet?",
+    "resposta": "bob"
+  },
+  {
+    "usuario": "TIAGO",
+    "senha": "142536",
+    "email": "VITORTIAGOVITOR@GMAI.COM.BR",
+    "pergunta": "Time de futebol do coração?",
+    "resposta": "SAO PAULO"
   }
 ]

@@ -824,12 +824,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "8018189852947",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571941/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 12:11:17",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "714909",

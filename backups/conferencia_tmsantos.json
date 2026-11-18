@@ -200,12 +200,12 @@
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7899674038852",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571929/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 17:15:44",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TMSANTOS | fiscal391"
   },
   {
     "cod": "1175610",

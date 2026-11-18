@@ -2345,12 +2345,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898682041267",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571941/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 14:50:36",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "999288",

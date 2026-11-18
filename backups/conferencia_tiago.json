@@ -161,12 +161,12 @@
     "emb": "CX    6",
     "qtd": "1",
     "ean": "7898363318053",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571407/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 13:56:02",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1192957",

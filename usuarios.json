@@ -7,10 +7,17 @@
     "resposta": "bob"
   },
   {
-    "usuario": "TIAGO",
+    "usuario": "tiago",
     "senha": "142536",
-    "email": "VITORTIAGOVITOR@GMAI.COM.BR",
-    "pergunta": "Time de futebol do coração?",
-    "resposta": "SAO PAULO"
+    "email": "vitortiagovitor@gmai.com.br",
+    "pergunta": "timedefuteboldocoraã§ã£o?",
+    "resposta": "saopaulo"
+  },
+  {
+    "usuario": "TMSANTOS",
+    "senha": "cobasi",
+    "email": "tauaneandrade2810@gmail.com",
+    "pergunta": "Nome do seu primeiro pet?",
+    "resposta": "cremosinho"
   }
 ]

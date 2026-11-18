@@ -239,12 +239,12 @@
     "emb": "CX   80",
     "qtd": "1",
     "ean": "7899638312882",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571931/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 16:08:50",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "803073",

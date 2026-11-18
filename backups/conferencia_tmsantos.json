@@ -525,11 +525,11 @@
     "emb": "UN    1",
     "qtd": "11",
     "ean": "7896112402800",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571875/2",
-    "qtdDiv": "-2",
-    "dataHora": "18/11/2026 17:53:23",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "18/11/2026 17:57:14",
+    "statusAnt": "DIVERGENTE",
     "usuario": "TMSANTOS | fiscal391"
   },
   {

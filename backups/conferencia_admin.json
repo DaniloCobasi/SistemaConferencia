@@ -291,12 +291,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "52742022369",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571946/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 17:41:00",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "446319",

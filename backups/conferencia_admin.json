@@ -629,12 +629,12 @@
     "emb": "CX    8",
     "qtd": "1",
     "ean": "7896181298083",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571931/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 16:40:23",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "1147080",

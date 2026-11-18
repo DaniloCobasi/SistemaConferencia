@@ -148,12 +148,12 @@
     "emb": "CX    5",
     "qtd": "2",
     "ean": "7898363312013",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "571407/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "1",
+    "dataHora": "18/11/2026 13:43:14",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1169629",

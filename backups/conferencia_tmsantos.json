@@ -187,12 +187,12 @@
     "emb": "UN    1",
     "qtd": "6",
     "ean": "7898053586182",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "571875/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-2",
+    "dataHora": "18/11/2026 17:41:16",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TMSANTOS | fiscal391"
   },
   {
     "cod": "1142810",

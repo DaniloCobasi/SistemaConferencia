@@ -655,12 +655,12 @@
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7898591871412",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "571946/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-2",
+    "dataHora": "18/11/2026 17:19:21",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "755940",

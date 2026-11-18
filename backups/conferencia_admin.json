@@ -1201,11 +1201,11 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7908471130437",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571946/2",
-    "qtdDiv": "-1",
-    "dataHora": "18/11/2026 17:17:32",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "18/11/2026 17:31:58",
+    "statusAnt": "DIVERGENTE",
     "usuario": "admin | entra391"
   },
   {

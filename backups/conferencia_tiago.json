@@ -343,12 +343,12 @@
     "emb": "CX   15",
     "qtd": "2",
     "ean": "7891000469064",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571407/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 13:47:14",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1207750",

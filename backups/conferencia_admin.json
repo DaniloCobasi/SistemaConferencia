@@ -1266,11 +1266,11 @@
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7898682047276",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571946/2",
-    "qtdDiv": "-1",
-    "dataHora": "18/11/2026 17:31:34",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "18/11/2026 17:31:50",
+    "statusAnt": "DIVERGENTE",
     "usuario": "admin | entra391"
   },
   {

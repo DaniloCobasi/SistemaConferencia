@@ -187,11 +187,11 @@
     "emb": "UN    1",
     "qtd": "6",
     "ean": "7898053586182",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571875/2",
-    "qtdDiv": "-2",
-    "dataHora": "18/11/2026 17:41:16",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "18/11/2026 17:44:11",
+    "statusAnt": "DIVERGENTE",
     "usuario": "TMSANTOS | fiscal391"
   },
   {

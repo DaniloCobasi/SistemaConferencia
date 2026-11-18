@@ -1,1 +1,106 @@
-﻿[]
+﻿[
+  {
+    "cod": "149772",
+    "desc": "EBICEN CAMARAO 30G - MEGAPADRAO",
+    "emb": "CX   40",
+    "qtd": "1",
+    "ean": "7896039010119",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "169986",
+    "desc": "COCA-COLA 350ML",
+    "emb": "CX   12",
+    "qtd": "2",
+    "ean": "7894900010015",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "172022",
+    "desc": "SCHWEPPES CITRUS 350ML",
+    "emb": "FD    6",
+    "qtd": "2",
+    "ean": "7894900180503",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "172480",
+    "desc": "AGUA CRYSTAL S/GAS 500ML",
+    "emb": "CX   12",
+    "qtd": "5",
+    "ean": "7894900530001",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "172510",
+    "desc": "AGUA CRYSTAL COPO  310ML",
+    "emb": "CX   48",
+    "qtd": "1",
+    "ean": "7894900530049",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "861723",
+    "desc": "DEL VALLE PESSEGO 290ML",
+    "emb": "CX    6",
+    "qtd": "1",
+    "ean": "7894900660319",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "916420",
+    "desc": "CRYSTAL SPARKLING LIMAO 510ML",
+    "emb": "CX    6",
+    "qtd": "2",
+    "ean": "7894900520507",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  },
+  {
+    "cod": "1207121",
+    "desc": "REFRI COCA-COLA TRIPLE Z 350ML",
+    "emb": "FD    6",
+    "qtd": "1",
+    "ean": "7894900029628",
+    "status": "NÃO CONFERIDO",
+    "nf": "571465/2",
+    "qtdDiv": "",
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
+  }
+]

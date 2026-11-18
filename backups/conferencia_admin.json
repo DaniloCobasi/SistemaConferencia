@@ -837,11 +837,11 @@
     "emb": "CX   20",
     "qtd": "1",
     "ean": "7898682046132",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571931/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 16:21:57",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   }
 ]

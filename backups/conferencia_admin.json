@@ -395,12 +395,12 @@
     "emb": "FD   10",
     "qtd": "1",
     "ean": "7897348205517",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571946/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 17:26:12",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "946087",

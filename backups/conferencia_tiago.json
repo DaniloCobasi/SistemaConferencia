@@ -14,7 +14,7 @@
   },
   {
     "cod": "946109",
-    "desc": "PREM NUTR CLINIC CAES RMG HIPOALE10,1KG",
+    "desc": "PREM NUTR CLINIC CAES RMG HIPOALE10",
     "emb": "UN    1",
     "qtd": "8",
     "ean": "7897348207290",
@@ -53,7 +53,7 @@
   },
   {
     "cod": "903230",
-    "desc": "GRAN PLUS GATOS AD CARNE 10,1KG",
+    "desc": "GRAN PLUS GATOS AD CARNE 10",
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7896048914095",
@@ -79,7 +79,7 @@
   },
   {
     "cod": "927392",
-    "desc": "GP GMT AD MINI OVELHA 10,1KG",
+    "desc": "GP GMT AD MINI OVELHA 10",
     "emb": "UN    1",
     "qtd": "5",
     "ean": "7896048916648",
@@ -92,7 +92,7 @@
   },
   {
     "cod": "1004255",
-    "desc": "GP CHOICE CAO FILHOTE 10,1KG",
+    "desc": "GP CHOICE CAO FILHOTE 10",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896048919373",
@@ -118,7 +118,7 @@
   },
   {
     "cod": "990191",
-    "desc": "FN FRESH MEAT SENSITIVE MINI/PEQ 2,5KG",
+    "desc": "FN FRESH MEAT SENSITIVE MINI/PEQ 2",
     "emb": "CX    3",
     "qtd": "6",
     "ean": "7898363316455",
@@ -170,16 +170,16 @@
   },
   {
     "cod": "1192957",
-    "desc": "FN PRO CAES SENIOR MIN PEQ 10,1KG",
+    "desc": "FN PRO CAES SENIOR MIN PEQ 10",
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7898363318954",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571407/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 13:34:35",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "684899",
@@ -196,7 +196,7 @@
   },
   {
     "cod": "1179438",
-    "desc": "GOLDEN FORM CAO AD PP CN AR 10,1KG",
+    "desc": "GOLDEN FORM CAO AD PP CN AR 10",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7897348209799",
@@ -261,7 +261,7 @@
   },
   {
     "cod": "910090",
-    "desc": "OPT DRY DOG AD RP M FGO AR 10,1KG",
+    "desc": "OPT DRY DOG AD RP M FGO AR 10",
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7896029037263",

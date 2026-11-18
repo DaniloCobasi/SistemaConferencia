@@ -1162,12 +1162,12 @@
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7891000454152",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571946/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 17:17:58",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "1194038",

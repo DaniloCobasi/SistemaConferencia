@@ -1292,11 +1292,11 @@
     "emb": "FD    4",
     "qtd": "2",
     "ean": "7898242036481",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571946/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 17:22:10",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   }
 ]

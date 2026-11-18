@@ -239,12 +239,12 @@
     "emb": "CX   40",
     "qtd": "3",
     "ean": "7896029046173",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571407/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 13:55:31",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "797693",

@@ -551,12 +551,12 @@
     "emb": "CX   40",
     "qtd": "2",
     "ean": "7896029046197",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571931/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "18/11/2026 16:27:13",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "820644",

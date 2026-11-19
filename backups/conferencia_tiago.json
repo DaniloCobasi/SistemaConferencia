@@ -733,12 +733,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7898615852717",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:39:23",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "600652",

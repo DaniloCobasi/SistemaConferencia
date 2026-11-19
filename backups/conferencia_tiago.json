@@ -1123,12 +1123,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7891117007128",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571739/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 10:59:35",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "666149",

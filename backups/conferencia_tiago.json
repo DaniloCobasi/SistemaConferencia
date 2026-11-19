@@ -1240,12 +1240,12 @@
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7896181218371",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 15:03:57",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "813753",
@@ -1378,7 +1378,7 @@
     "usuario": "tiago | entra150"
   },
   {
-    "cod": "1143123",
+    "cod": "7896181218371",
     "desc": "ODORIZADOR DE AMB SECAR BAMBOO 360ML",
     "emb": "UN    1",
     "qtd": "2",
@@ -1391,7 +1391,7 @@
     "usuario": "tiago | entra150"
   },
   {
-    "cod": "1186019",
+    "cod": "7896181218371",
     "desc": "DESINF UAU ANTIBAC FLOR DE PRIMAVERA 2L",
     "emb": "UN    1",
     "qtd": "1",

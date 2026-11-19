@@ -369,12 +369,12 @@
     "emb": "FD    4",
     "qtd": "2",
     "ean": "7896035900629",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571701/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 11:33:21",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "797707",

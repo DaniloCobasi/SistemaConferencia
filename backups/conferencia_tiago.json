@@ -434,12 +434,12 @@
     "emb": "FD   12",
     "qtd": "3",
     "ean": "7898641317372",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571385/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 13:40:44",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "686026",

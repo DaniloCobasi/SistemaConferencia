@@ -460,12 +460,12 @@
     "emb": "PT    3",
     "qtd": "2",
     "ean": "0888886020141",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571385/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 13:40:21",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "608262",

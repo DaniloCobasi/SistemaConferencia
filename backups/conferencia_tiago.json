@@ -122,12 +122,12 @@
     "emb": "FD   10",
     "qtd": "2",
     "ean": "7898329492339",
-    "status": "7897348207689",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 15:20:43",
+    "statusAnt": "7897348207689",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "794961",

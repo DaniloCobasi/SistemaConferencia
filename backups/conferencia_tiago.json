@@ -66,7 +66,7 @@
   },
   {
     "cod": "1133667",
-    "desc": "PREMIER GOUR CÃES AD PP BAT D BRO 85G",
+    "desc": "PREMIER GOUR CÃƒES AD PP BAT D BRO 85G",
     "emb": "CX   40",
     "qtd": "2",
     "ean": "7897348201618",
@@ -898,7 +898,7 @@
   },
   {
     "cod": "1188976",
-    "desc": "VASO AQUARELA 1,5 AZUL MIRTILO",
+    "desc": "VASO AQUARELA 1",
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7896403249961",
@@ -911,7 +911,7 @@
   },
   {
     "cod": "1189026",
-    "desc": "VASO AQUARELA 1,5 ROSA PESSEGO",
+    "desc": "VASO AQUARELA 1",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7896403249985",
@@ -924,7 +924,7 @@
   },
   {
     "cod": "1189085",
-    "desc": "VASO AQUARELA 2,5 ROSA PESSEGO",
+    "desc": "VASO AQUARELA 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7896403250035",
@@ -937,7 +937,7 @@
   },
   {
     "cod": "1189158",
-    "desc": "VASO AQUARELA 3,5 ROXO AMORA",
+    "desc": "VASO AQUARELA 3",
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7896403250097",
@@ -950,7 +950,7 @@
   },
   {
     "cod": "1189255",
-    "desc": "PRATO AQUARELA 0,5 MARROM NOZES",
+    "desc": "PRATO AQUARELA 0",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896403250622",
@@ -1145,7 +1145,7 @@
   },
   {
     "cod": "963500",
-    "desc": "PULVERIZADOR MANUAL 0,45 L - TRAMONTINA",
+    "desc": "PULVERIZADOR MANUAL 0",
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7891117102335",
@@ -1886,7 +1886,7 @@
   },
   {
     "cod": "1125869",
-    "desc": "BRINQ.CORDÃO CASCA PINUS M",
+    "desc": "BRINQ.CORDÃƒO CASCA PINUS M",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7898269444320",
@@ -3017,7 +3017,7 @@
   },
   {
     "cod": "837628",
-    "desc": "COM MD 1,7L AZ TRITON",
+    "desc": "COM MD 1",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7899857433795",
@@ -3134,7 +3134,7 @@
   },
   {
     "cod": "1205307",
-    "desc": "SNACK NUGGET GATOS REQUEIJÃO 40G CDSG",
+    "desc": "SNACK NUGGET GATOS REQUEIJÃƒO 40G CDSG",
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7908253611512",
@@ -3173,7 +3173,7 @@
   },
   {
     "cod": "824941",
-    "desc": "ROYAL CANIN BULLDOG FRANCES AD 2,5KG",
+    "desc": "ROYAL CANIN BULLDOG FRANCES AD 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7896181219118",
@@ -3238,7 +3238,7 @@
   },
   {
     "cod": "1154966",
-    "desc": "LIXEIRA TRIUM 2,5L BEGE FECHADO",
+    "desc": "LIXEIRA TRIUM 2",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7897386792048",
@@ -3450,12 +3450,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7908471111474",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571739/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 10:41:48",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1190679",

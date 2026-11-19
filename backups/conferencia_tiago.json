@@ -1045,12 +1045,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896908254989",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:49:40",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "580570",

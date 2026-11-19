@@ -317,12 +317,12 @@
     "emb": "CX    4",
     "qtd": "1",
     "ean": "7898363316936",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571620/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:21:43",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "798738",

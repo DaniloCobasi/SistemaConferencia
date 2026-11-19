@@ -57,12 +57,12 @@
     "emb": "CX   24",
     "qtd": "1",
     "ean": "7899638312905",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571620/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:17:24",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "518123",

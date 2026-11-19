@@ -213,12 +213,12 @@
     "emb": "CX   18",
     "qtd": "1",
     "ean": "7898612675135",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571701/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 11:30:56",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1003852",

@@ -3034,11 +3034,11 @@
     "emb": "UN    1",
     "qtd": "3",
     "ean": "7899857433719",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571739/2",
-    "qtdDiv": "-1",
-    "dataHora": "19/11/2026 10:55:10",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "19/11/2026 11:09:13",
+    "statusAnt": "DIVERGENTE",
     "usuario": "tiago | entra150"
   },
   {

@@ -291,12 +291,12 @@
     "emb": "PT    3",
     "qtd": "1",
     "ean": "7898276904022",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571385/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 13:40:57",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "595306",

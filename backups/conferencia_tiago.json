@@ -122,7 +122,7 @@
     "emb": "FD   10",
     "qtd": "2",
     "ean": "7898329492339",
-    "status": "NÃO CONFERIDO",
+    "status": "7897348207689",
     "nf": "571706/2",
     "qtdDiv": "",
     "dataHora": "",
@@ -278,12 +278,12 @@
     "emb": "FD    6",
     "qtd": "2",
     "ean": "7897348207689",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 15:10:52",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "575445",

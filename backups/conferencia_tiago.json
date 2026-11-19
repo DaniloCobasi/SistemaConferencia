@@ -343,12 +343,12 @@
     "emb": "FD    6",
     "qtd": "3",
     "ean": "7897348207337",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571385/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 13:45:50",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1132377",

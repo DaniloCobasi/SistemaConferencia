@@ -967,12 +967,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7898363317674",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "571706/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-1",
+    "dataHora": "19/11/2026 14:45:53",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1160737",

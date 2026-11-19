@@ -1760,11 +1760,11 @@
     "emb": "UN    1",
     "qtd": "4",
     "ean": "52742339207",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "571739/2",
-    "qtdDiv": "-1",
-    "dataHora": "19/11/2026 10:45:59",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "19/11/2026 10:47:01",
+    "statusAnt": "DIVERGENTE",
     "usuario": "tiago | entra150"
   },
   {

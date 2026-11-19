@@ -447,11 +447,11 @@
     "emb": "CX   15",
     "qtd": "3",
     "ean": "7898626401072",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571620/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:16:25",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   }
 ]

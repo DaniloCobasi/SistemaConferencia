@@ -174,12 +174,12 @@
     "emb": "CX    3",
     "qtd": "2",
     "ean": "7898363312587",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571620/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:14:08",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "453390",

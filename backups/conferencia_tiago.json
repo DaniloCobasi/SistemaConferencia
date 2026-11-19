@@ -993,12 +993,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7895478200051",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571739/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 11:01:17",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "300721",

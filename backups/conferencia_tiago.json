@@ -382,12 +382,12 @@
     "emb": "CX   36",
     "qtd": "2",
     "ean": "7896029015001",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571701/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 11:32:01",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1008048",

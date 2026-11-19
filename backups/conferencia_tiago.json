@@ -44,12 +44,12 @@
     "emb": "CX   10",
     "qtd": "1",
     "ean": "7897348207542",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571701/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 11:13:16",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "998230",

@@ -395,12 +395,12 @@
     "emb": "CX   34",
     "qtd": "2",
     "ean": "7896029021743",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571620/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 14:16:31",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1200283",

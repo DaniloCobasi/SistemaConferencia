@@ -928,12 +928,12 @@
     "emb": "FD    4",
     "qtd": "2",
     "ean": "7896048916891",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571706/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "19/11/2026 15:14:47",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "tiago | entra150"
   },
   {
     "cod": "1004069",

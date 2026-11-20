@@ -1,3 +1,3 @@
-Legenda: Linha 2 = [OBRIGATORIO] ou [OPCIONAL] | Linha 3 = Link de Download
+V14.8.2
 [OBRIGATORIO]
 https://www.dropbox.com/scl/fi/70sq2n4y6q1bb7vf97y7a/Manual-de-identifica-o-de-avarias.pdf?rlkey=m62wplmclyrqnyyeag7lrcvp5&st=912dgfzn&dl=1

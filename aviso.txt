@@ -1,1 +1,3 @@
-Bem vindo!
+Legenda: Linha 2 = [LIBERAR] ou [BLOQUEADO] | Linha 3 = Mensagem
+[LIBERAR]
+Bem-vindo ao sistema! Tenha um bom trabalho.

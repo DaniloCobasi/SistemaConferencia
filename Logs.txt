@@ -10,3 +10,4 @@ guest | Danilo | 20/11/2026 21:41:22
 guest | Danilo | 20/11/2026 21:51:02
 guest | Danilo | 20/11/2026 22:00:20
 [VERDE] sem login | Danilo | 20/11/2026 22:24:16
+[32msem login | Danilo | 20/11/2026 22:27:14[0m

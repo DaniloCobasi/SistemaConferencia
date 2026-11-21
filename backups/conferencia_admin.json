@@ -109,12 +109,12 @@
     "emb": "FD   12",
     "qtd": "2",
     "ean": "7898113910063",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "270096/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "20/11/2026 23:30:08",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "474720",

@@ -3,3 +3,6 @@
 "Mensagem inicial do sistema"
 
 ~UPDATE~
+V14.8.4 -> Versão para atualizar
+[OPICIONAL] -> ou [OBRIGATORIO]
+Link de download DROPBOX -> Alterar www.dropbox.com por: dl.dropboxusercontent e alterar o final de 0 pra 1

@@ -70,12 +70,12 @@
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7896544403673",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "270096/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "20/11/2026 23:30:00",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "609625",

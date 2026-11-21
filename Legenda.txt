@@ -1,1 +1,2 @@
-
+~AVISOS~
+[BLOQUEAR] -> Para proibir inicialização da planilha

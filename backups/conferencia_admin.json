@@ -187,12 +187,12 @@
     "emb": "PT   50",
     "qtd": "1",
     "ean": "7896438853973",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "270096/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "20/11/2026 23:30:30",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "568848",

@@ -1,5 +1,5 @@
 ~AVISOS~
-[BLOQUEAR] -> Para proibir inicialização da planilha
+[BLOQUEADO] -> Para proibir inicialização da planilha
 "Mensagem inicial do sistema"
 
 ~UPDATE~

@@ -122,12 +122,12 @@
     "emb": "PT    3",
     "qtd": "1",
     "ean": "7898276904541",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "270096/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "20/11/2026 23:30:10",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "671746",

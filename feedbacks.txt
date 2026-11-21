@@ -1,1 +1,13 @@
+﻿ID: FB20261121012909
+Tipo: Dúvida
+Nome: Danilo
+E-mail: Não informado
+Usuário do Sistema: Não logado
+Computador: Danilo
+Versão do Sistema: V14.8.3
+Data/Hora: 21/11/2026 01:29:04
+----------------------------------------
+Mensagem:
+teste
+----------------------------------------
 

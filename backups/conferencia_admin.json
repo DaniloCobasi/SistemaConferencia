@@ -83,12 +83,12 @@
     "emb": "PT   20",
     "qtd": "1",
     "ean": "7896647104644",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "270096/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "20/11/2026 23:30:03",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | Danilo"
   },
   {
     "cod": "824062",

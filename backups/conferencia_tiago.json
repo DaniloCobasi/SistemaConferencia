@@ -1526,12 +1526,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7908471111160",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578978/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 15:30:23",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "1200070",

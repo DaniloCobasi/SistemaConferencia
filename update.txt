@@ -1,3 +1,3 @@
 V14.8.4
-  [OBRIGATORIO]
+[OPICIONAL]
 https://dl.dropboxusercontent.com/scl/fi/kh8h2tshxvoz20bm3sgaq/Sistema-Conferencia-14.8.3TESTE.xlsm?rlkey=xbf7jky2x6fk3ycn7gh1gbgp3&st=80nglnsm&dl=1

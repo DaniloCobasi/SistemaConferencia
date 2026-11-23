@@ -603,12 +603,12 @@
     "emb": "FD   20",
     "qtd": "1",
     "ean": "7898322629961",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578977/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 13:52:04",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "473294",

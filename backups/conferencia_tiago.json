@@ -57,12 +57,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896782204315",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 11:19:16",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "555720",

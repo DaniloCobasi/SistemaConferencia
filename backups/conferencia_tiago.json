@@ -131,7 +131,7 @@
   },
   {
     "cod": "1189034",
-    "desc": "VASO AQUARELA 1,5 ROXO AMORA",
+    "desc": "VASO AQUARELA 1",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896403249992",
@@ -144,7 +144,7 @@
   },
   {
     "cod": "1189093",
-    "desc": "VASO AQUARELA 2,5 ROXO AMORA",
+    "desc": "VASO AQUARELA 2",
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7896403250042",
@@ -157,7 +157,7 @@
   },
   {
     "cod": "1189204",
-    "desc": "PRATO AQUARELA 0,3 ROSA PESSEGO",
+    "desc": "PRATO AQUARELA 0",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7896403250707",
@@ -170,7 +170,7 @@
   },
   {
     "cod": "1189220",
-    "desc": "PRATO AQUARELA 0,3 VERDE BOLDO",
+    "desc": "PRATO AQUARELA 0",
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7896403250691",
@@ -573,7 +573,7 @@
   },
   {
     "cod": "1174622",
-    "desc": "COMP DE AR SOMA RECARREG CS-200 1,2L MIN",
+    "desc": "COMP DE AR SOMA RECARREG CS-200 1",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7899901121630",
@@ -677,7 +677,7 @@
   },
   {
     "cod": "1179446",
-    "desc": "PREMIER NATTU GF CAO AD PP 2,5KG",
+    "desc": "PREMIER NATTU GF CAO AD PP 2",
     "emb": "FD    6",
     "qtd": "5",
     "ean": "7897348209416",
@@ -703,7 +703,7 @@
   },
   {
     "cod": "635456",
-    "desc": "ND PRIME FEL FRANGO KITTEN 0,400GR",
+    "desc": "ND PRIME FEL FRANGO KITTEN 0",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898604433286",
@@ -846,7 +846,7 @@
   },
   {
     "cod": "964778",
-    "desc": "BEBEDOURO 1,2L BIVOLT MINI - FLICKS",
+    "desc": "BEBEDOURO 1",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898682044787",
@@ -1041,7 +1041,7 @@
   },
   {
     "cod": "955469",
-    "desc": "COM PREMIUM MINI 1,2L VERMELHO - NF",
+    "desc": "COM PREMIUM MINI 1",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898957491445",
@@ -1054,7 +1054,7 @@
   },
   {
     "cod": "957151",
-    "desc": "COM ARAMADO PEQUENO 1,5L LILAS - NF",
+    "desc": "COM ARAMADO PEQUENO 1",
     "emb": "UN    1",
     "qtd": "1",
     "ean": "7898957491698",
@@ -1158,7 +1158,7 @@
   },
   {
     "cod": "126306",
-    "desc": "PREMIER PET A I FIL  2,5KG",
+    "desc": "PREMIER PET A I FIL  2",
     "emb": "FD    6",
     "qtd": "2",
     "ean": "7897348201274",
@@ -1197,7 +1197,7 @@
   },
   {
     "cod": "663697",
-    "desc": "PREMIER PET A I CAO RC PEQ SENIOR 2,5KG",
+    "desc": "PREMIER PET A I CAO RC PEQ SENIOR 2",
     "emb": "FD    6",
     "qtd": "2",
     "ean": "7897348203995",
@@ -1236,7 +1236,7 @@
   },
   {
     "cod": "795410",
-    "desc": "PREMIER PET AD RACAS PEQUENAS 2,5KG",
+    "desc": "PREMIER PET AD RACAS PEQUENAS 2",
     "emb": "FD    6",
     "qtd": "2",
     "ean": "7897348201007",
@@ -1275,7 +1275,7 @@
   },
   {
     "cod": "950734",
-    "desc": "PREMIER NATTU AD RP ABOBORA 2,5KG",
+    "desc": "PREMIER NATTU AD RP ABOBORA 2",
     "emb": "FD    6",
     "qtd": "3",
     "ean": "7897348200130",
@@ -1301,7 +1301,7 @@
   },
   {
     "cod": "1184032",
-    "desc": "DOG CHOW AD MD GD CAR FRG ARR 2,5KG",
+    "desc": "DOG CHOW AD MD GD CAR FRG ARR 2",
     "emb": "FD    6",
     "qtd": "1",
     "ean": "7891000435106",
@@ -1565,11 +1565,11 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "0618231216239",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578978/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 16:26:20",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   }
 ]

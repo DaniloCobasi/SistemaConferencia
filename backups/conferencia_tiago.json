@@ -213,12 +213,12 @@
     "emb": "UN    1",
     "qtd": "1",
     "ean": "6924781214644",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578977/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 14:15:07",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "562874",

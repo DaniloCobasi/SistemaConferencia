@@ -941,11 +941,11 @@
     "emb": "UN    1",
     "qtd": "7",
     "ean": "7908405901560",
-    "status": "DIVERGENTE",
+    "status": "CONFERIDO",
     "nf": "578977/2",
-    "qtdDiv": "-4",
-    "dataHora": "23/11/2026 13:57:08",
-    "statusAnt": "NÃO CONFERIDO",
+    "qtdDiv": "",
+    "dataHora": "23/11/2026 14:13:44",
+    "statusAnt": "DIVERGENTE",
     "usuario": "TIAGO | entra150"
   },
   {

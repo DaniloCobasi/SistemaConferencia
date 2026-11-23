@@ -460,12 +460,12 @@
     "emb": "FD    4",
     "qtd": "3",
     "ean": "7898682042752",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578975/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 12:31:29",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "1153137",

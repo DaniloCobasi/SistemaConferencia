@@ -83,12 +83,12 @@
     "emb": "UN    1",
     "qtd": "2",
     "ean": "7899574729065",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "578984/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-1",
+    "dataHora": "23/11/2026 12:49:44",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "1152920",

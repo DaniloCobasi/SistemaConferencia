@@ -83,12 +83,12 @@
     "emb": "FD   10",
     "qtd": "2",
     "ean": "7896792600893",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578985/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 15:08:07",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "474525",

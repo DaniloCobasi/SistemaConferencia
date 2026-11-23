@@ -889,12 +889,12 @@
     "emb": "FD    3",
     "qtd": "2",
     "ean": "7899669615211",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578985/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 15:11:22",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "1182870",

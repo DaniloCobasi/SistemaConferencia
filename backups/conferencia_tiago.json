@@ -928,11 +928,11 @@
     "emb": "CX   10",
     "qtd": "1",
     "ean": "40141341549",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578985/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 14:53:30",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   }
 ]

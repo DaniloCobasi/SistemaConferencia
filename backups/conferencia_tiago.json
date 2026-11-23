@@ -941,12 +941,12 @@
     "emb": "UN    1",
     "qtd": "7",
     "ean": "7908405901560",
-    "status": "NÃO CONFERIDO",
+    "status": "DIVERGENTE",
     "nf": "578977/2",
-    "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "qtdDiv": "-4",
+    "dataHora": "23/11/2026 13:57:08",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "1170007",

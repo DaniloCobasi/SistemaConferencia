@@ -1188,12 +1188,12 @@
     "emb": "UN    1",
     "qtd": "4",
     "ean": "7896181215387",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "578977/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "23/11/2026 13:57:52",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "TIAGO | entra150"
   },
   {
     "cod": "734683",
@@ -1269,7 +1269,7 @@
     "status": "NÃO CONFERIDO",
     "nf": "578977/2",
     "qtdDiv": "",
-    "dataHora": "",
+    "dataHora": "7896181215387",
     "statusAnt": "",
     "usuario": ""
   },

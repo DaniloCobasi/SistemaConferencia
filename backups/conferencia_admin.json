@@ -44,12 +44,12 @@
     "emb": "PT    3",
     "qtd": "1",
     "ean": "7898276904350",
-    "status": "CONFERIDO",
+    "status": "NÃO CONFERIDO",
     "nf": "571735/2",
     "qtdDiv": "",
-    "dataHora": "24/11/2026 11:56:29",
-    "statusAnt": "NÃO CONFERIDO",
-    "usuario": "admin | entra391"
+    "dataHora": "",
+    "statusAnt": "",
+    "usuario": ""
   },
   {
     "cod": "475564",

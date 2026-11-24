@@ -5,12 +5,12 @@
     "emb": "FD   20",
     "qtd": "1",
     "ean": "7898074740075",
-    "status": "NÃO CONFERIDO",
+    "status": "CONFERIDO",
     "nf": "571735/2",
     "qtdDiv": "",
-    "dataHora": "",
-    "statusAnt": "",
-    "usuario": ""
+    "dataHora": "24/11/2026 11:52:52",
+    "statusAnt": "NÃO CONFERIDO",
+    "usuario": "admin | entra391"
   },
   {
     "cod": "102679",

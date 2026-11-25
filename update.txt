@@ -1,1 +1,1 @@
-V15.0.5 [OPICIONAL] https://dl.dropboxusercontent.com/scl/fi/tl4h06xivff76h18enzpn/Sistema-Conferencia-15.0.0-1.xlsm?rlkey=iy6sextpsbrlgt5ace2whiorl&st=3fanuzyh&dl=1
+V15.0.5 [OBRIGATORIO] https://dl.dropboxusercontent.com/scl/fi/tl4h06xivff76h18enzpn/Sistema-Conferencia-15.0.0-1.xlsm?rlkey=iy6sextpsbrlgt5ace2whiorl&st=3fanuzyh&dl=1

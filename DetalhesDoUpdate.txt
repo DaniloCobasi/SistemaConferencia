@@ -1,8 +1,1 @@
-{BANCO DE DADOS}
-Novos códigos incluídos no banco de dados.
-
-{MELHORIAS DE PERFORMACE}
-Melhorias em geral na performace do programa.
-
-{ALGUNS DETALHES VISUAIS MODIFICADOS}
-Layouts..
+teste
